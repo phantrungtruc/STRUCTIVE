@@ -7,6 +7,6 @@ STRUCTIVE is a very deSTRUCTIVE tool, it is a remake and fixed version of Saphyr
 3. Type >> "'python3 server.py [website-domain]'"
 
 **Example:**
-"'python3 server.py http://youtube.com'"
+`python3 server.py http://youtube.com'"`
 
 *DON'T GO ON A DDOS SPREE*
