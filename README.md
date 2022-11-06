@@ -1,8 +1,12 @@
 # STRUCTIVE
 STRUCTIVE is a very deSTRUCTIVE tool, it is a remake and fixed version of Saphyra.py.
 
-execute: python3 server.py [website-domain]
+**How to run it?**
+1. Make sure to install python
+2. Goto Command Prompt / Terminal
+3. Type >> "'python3 server.py [website-domain]'"
 
-eg: python3 server.py http://youtube.com
+**Example:**
+"'python3 server.py http://youtube.com'"
 
-DON'T GO ON A DDOS SPREE
+*DON'T GO ON A DDOS SPREE*
